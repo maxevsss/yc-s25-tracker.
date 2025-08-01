@@ -1,5 +1,5 @@
-# Обновляем main.py с заголовками и обработкой ошибок
-fixed_main_py = """
+
+main_py = """
 import streamlit as st
 import pandas as pd
 import requests
@@ -74,8 +74,8 @@ st.download_button("Скачать CSV", csv, "yc_s25_companies.csv", "text/csv"
 """
 
 # Сохраним файл
-fixed_file_path = "/mnt/data/main_fixed.py"
-with open(fixed_file_path, "w") as f:
-    f.write(fixed_main_py)
+final_file_path = "/mnt/data/main_final.py"
+with open(final_file_path, "w") as f:
+    f.write(final_main_py)
 
-fixed_file_path
+final_file_path
