@@ -1,5 +1,4 @@
 
-main_py = """
 import streamlit as st
 import pandas as pd
 import requests
@@ -71,11 +70,3 @@ st.dataframe(df)
 # Кнопка скачать
 csv = df.to_csv(index=False).encode('utf-8')
 st.download_button("Скачать CSV", csv, "yc_s25_companies.csv", "text/csv")
-"""
-
-# Сохраним файл
-final_file_path = "/mnt/data/main_final.py"
-with open(final_file_path, "w") as f:
-    f.write(final_main_py)
-
-final_file_path
