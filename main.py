@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 
-# Загружаем готовый CSV
 @st.cache_data
 def load_data():
     return pd.read_csv("yc_s25_data.csv")
