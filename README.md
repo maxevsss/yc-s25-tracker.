@@ -1,11 +1,3 @@
+# YC Summer 2025 Tracker
 
-# YC S25 Tracker (Full List)
-
-Streamlit-приложение для отслеживания стартапов Y Combinator Summer 2025.
-
-## Возможности:
-- Полный список стартапов S25 из YC
-- Поиск по названию и описанию
-- Выгрузка данных в CSV
-
-Автор: Maxim Evseychik
+Streamlit-приложение со списком 112 компаний Summer 2025.

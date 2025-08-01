@@ -1,221 +1,113 @@
 name,website,description,yc_url
-Company1,https://company1.com,Description of Company 1,https://www.ycombinator.com/companies/company1
-Company2,https://company2.com,Description of Company 2,https://www.ycombinator.com/companies/company2
-Company3,https://company3.com,Description of Company 3,https://www.ycombinator.com/companies/company3
-Company4,https://company4.com,Description of Company 4,https://www.ycombinator.com/companies/company4
-Company5,https://company5.com,Description of Company 5,https://www.ycombinator.com/companies/company5
-Company6,https://company6.com,Description of Company 6,https://www.ycombinator.com/companies/company6
-Company7,https://company7.com,Description of Company 7,https://www.ycombinator.com/companies/company7
-Company8,https://company8.com,Description of Company 8,https://www.ycombinator.com/companies/company8
-Company9,https://company9.com,Description of Company 9,https://www.ycombinator.com/companies/company9
-Company10,https://company10.com,Description of Company 10,https://www.ycombinator.com/companies/company10
-Company11,https://company11.com,Description of Company 11,https://www.ycombinator.com/companies/company11
-Company12,https://company12.com,Description of Company 12,https://www.ycombinator.com/companies/company12
-Company13,https://company13.com,Description of Company 13,https://www.ycombinator.com/companies/company13
-Company14,https://company14.com,Description of Company 14,https://www.ycombinator.com/companies/company14
-Company15,https://company15.com,Description of Company 15,https://www.ycombinator.com/companies/company15
-Company16,https://company16.com,Description of Company 16,https://www.ycombinator.com/companies/company16
-Company17,https://company17.com,Description of Company 17,https://www.ycombinator.com/companies/company17
-Company18,https://company18.com,Description of Company 18,https://www.ycombinator.com/companies/company18
-Company19,https://company19.com,Description of Company 19,https://www.ycombinator.com/companies/company19
-Company20,https://company20.com,Description of Company 20,https://www.ycombinator.com/companies/company20
-Company21,https://company21.com,Description of Company 21,https://www.ycombinator.com/companies/company21
-Company22,https://company22.com,Description of Company 22,https://www.ycombinator.com/companies/company22
-Company23,https://company23.com,Description of Company 23,https://www.ycombinator.com/companies/company23
-Company24,https://company24.com,Description of Company 24,https://www.ycombinator.com/companies/company24
-Company25,https://company25.com,Description of Company 25,https://www.ycombinator.com/companies/company25
-Company26,https://company26.com,Description of Company 26,https://www.ycombinator.com/companies/company26
-Company27,https://company27.com,Description of Company 27,https://www.ycombinator.com/companies/company27
-Company28,https://company28.com,Description of Company 28,https://www.ycombinator.com/companies/company28
-Company29,https://company29.com,Description of Company 29,https://www.ycombinator.com/companies/company29
-Company30,https://company30.com,Description of Company 30,https://www.ycombinator.com/companies/company30
-Company31,https://company31.com,Description of Company 31,https://www.ycombinator.com/companies/company31
-Company32,https://company32.com,Description of Company 32,https://www.ycombinator.com/companies/company32
-Company33,https://company33.com,Description of Company 33,https://www.ycombinator.com/companies/company33
-Company34,https://company34.com,Description of Company 34,https://www.ycombinator.com/companies/company34
-Company35,https://company35.com,Description of Company 35,https://www.ycombinator.com/companies/company35
-Company36,https://company36.com,Description of Company 36,https://www.ycombinator.com/companies/company36
-Company37,https://company37.com,Description of Company 37,https://www.ycombinator.com/companies/company37
-Company38,https://company38.com,Description of Company 38,https://www.ycombinator.com/companies/company38
-Company39,https://company39.com,Description of Company 39,https://www.ycombinator.com/companies/company39
-Company40,https://company40.com,Description of Company 40,https://www.ycombinator.com/companies/company40
-Company41,https://company41.com,Description of Company 41,https://www.ycombinator.com/companies/company41
-Company42,https://company42.com,Description of Company 42,https://www.ycombinator.com/companies/company42
-Company43,https://company43.com,Description of Company 43,https://www.ycombinator.com/companies/company43
-Company44,https://company44.com,Description of Company 44,https://www.ycombinator.com/companies/company44
-Company45,https://company45.com,Description of Company 45,https://www.ycombinator.com/companies/company45
-Company46,https://company46.com,Description of Company 46,https://www.ycombinator.com/companies/company46
-Company47,https://company47.com,Description of Company 47,https://www.ycombinator.com/companies/company47
-Company48,https://company48.com,Description of Company 48,https://www.ycombinator.com/companies/company48
-Company49,https://company49.com,Description of Company 49,https://www.ycombinator.com/companies/company49
-Company50,https://company50.com,Description of Company 50,https://www.ycombinator.com/companies/company50
-Company51,https://company51.com,Description of Company 51,https://www.ycombinator.com/companies/company51
-Company52,https://company52.com,Description of Company 52,https://www.ycombinator.com/companies/company52
-Company53,https://company53.com,Description of Company 53,https://www.ycombinator.com/companies/company53
-Company54,https://company54.com,Description of Company 54,https://www.ycombinator.com/companies/company54
-Company55,https://company55.com,Description of Company 55,https://www.ycombinator.com/companies/company55
-Company56,https://company56.com,Description of Company 56,https://www.ycombinator.com/companies/company56
-Company57,https://company57.com,Description of Company 57,https://www.ycombinator.com/companies/company57
-Company58,https://company58.com,Description of Company 58,https://www.ycombinator.com/companies/company58
-Company59,https://company59.com,Description of Company 59,https://www.ycombinator.com/companies/company59
-Company60,https://company60.com,Description of Company 60,https://www.ycombinator.com/companies/company60
-Company61,https://company61.com,Description of Company 61,https://www.ycombinator.com/companies/company61
-Company62,https://company62.com,Description of Company 62,https://www.ycombinator.com/companies/company62
-Company63,https://company63.com,Description of Company 63,https://www.ycombinator.com/companies/company63
-Company64,https://company64.com,Description of Company 64,https://www.ycombinator.com/companies/company64
-Company65,https://company65.com,Description of Company 65,https://www.ycombinator.com/companies/company65
-Company66,https://company66.com,Description of Company 66,https://www.ycombinator.com/companies/company66
-Company67,https://company67.com,Description of Company 67,https://www.ycombinator.com/companies/company67
-Company68,https://company68.com,Description of Company 68,https://www.ycombinator.com/companies/company68
-Company69,https://company69.com,Description of Company 69,https://www.ycombinator.com/companies/company69
-Company70,https://company70.com,Description of Company 70,https://www.ycombinator.com/companies/company70
-Company71,https://company71.com,Description of Company 71,https://www.ycombinator.com/companies/company71
-Company72,https://company72.com,Description of Company 72,https://www.ycombinator.com/companies/company72
-Company73,https://company73.com,Description of Company 73,https://www.ycombinator.com/companies/company73
-Company74,https://company74.com,Description of Company 74,https://www.ycombinator.com/companies/company74
-Company75,https://company75.com,Description of Company 75,https://www.ycombinator.com/companies/company75
-Company76,https://company76.com,Description of Company 76,https://www.ycombinator.com/companies/company76
-Company77,https://company77.com,Description of Company 77,https://www.ycombinator.com/companies/company77
-Company78,https://company78.com,Description of Company 78,https://www.ycombinator.com/companies/company78
-Company79,https://company79.com,Description of Company 79,https://www.ycombinator.com/companies/company79
-Company80,https://company80.com,Description of Company 80,https://www.ycombinator.com/companies/company80
-Company81,https://company81.com,Description of Company 81,https://www.ycombinator.com/companies/company81
-Company82,https://company82.com,Description of Company 82,https://www.ycombinator.com/companies/company82
-Company83,https://company83.com,Description of Company 83,https://www.ycombinator.com/companies/company83
-Company84,https://company84.com,Description of Company 84,https://www.ycombinator.com/companies/company84
-Company85,https://company85.com,Description of Company 85,https://www.ycombinator.com/companies/company85
-Company86,https://company86.com,Description of Company 86,https://www.ycombinator.com/companies/company86
-Company87,https://company87.com,Description of Company 87,https://www.ycombinator.com/companies/company87
-Company88,https://company88.com,Description of Company 88,https://www.ycombinator.com/companies/company88
-Company89,https://company89.com,Description of Company 89,https://www.ycombinator.com/companies/company89
-Company90,https://company90.com,Description of Company 90,https://www.ycombinator.com/companies/company90
-Company91,https://company91.com,Description of Company 91,https://www.ycombinator.com/companies/company91
-Company92,https://company92.com,Description of Company 92,https://www.ycombinator.com/companies/company92
-Company93,https://company93.com,Description of Company 93,https://www.ycombinator.com/companies/company93
-Company94,https://company94.com,Description of Company 94,https://www.ycombinator.com/companies/company94
-Company95,https://company95.com,Description of Company 95,https://www.ycombinator.com/companies/company95
-Company96,https://company96.com,Description of Company 96,https://www.ycombinator.com/companies/company96
-Company97,https://company97.com,Description of Company 97,https://www.ycombinator.com/companies/company97
-Company98,https://company98.com,Description of Company 98,https://www.ycombinator.com/companies/company98
-Company99,https://company99.com,Description of Company 99,https://www.ycombinator.com/companies/company99
-Company100,https://company100.com,Description of Company 100,https://www.ycombinator.com/companies/company100
-Company101,https://company101.com,Description of Company 101,https://www.ycombinator.com/companies/company101
-Company102,https://company102.com,Description of Company 102,https://www.ycombinator.com/companies/company102
-Company103,https://company103.com,Description of Company 103,https://www.ycombinator.com/companies/company103
-Company104,https://company104.com,Description of Company 104,https://www.ycombinator.com/companies/company104
-Company105,https://company105.com,Description of Company 105,https://www.ycombinator.com/companies/company105
-Company106,https://company106.com,Description of Company 106,https://www.ycombinator.com/companies/company106
-Company107,https://company107.com,Description of Company 107,https://www.ycombinator.com/companies/company107
-Company108,https://company108.com,Description of Company 108,https://www.ycombinator.com/companies/company108
-Company109,https://company109.com,Description of Company 109,https://www.ycombinator.com/companies/company109
-Company110,https://company110.com,Description of Company 110,https://www.ycombinator.com/companies/company110
-Company111,https://company111.com,Description of Company 111,https://www.ycombinator.com/companies/company111
-Company112,https://company112.com,Description of Company 112,https://www.ycombinator.com/companies/company112
-Company113,https://company113.com,Description of Company 113,https://www.ycombinator.com/companies/company113
-Company114,https://company114.com,Description of Company 114,https://www.ycombinator.com/companies/company114
-Company115,https://company115.com,Description of Company 115,https://www.ycombinator.com/companies/company115
-Company116,https://company116.com,Description of Company 116,https://www.ycombinator.com/companies/company116
-Company117,https://company117.com,Description of Company 117,https://www.ycombinator.com/companies/company117
-Company118,https://company118.com,Description of Company 118,https://www.ycombinator.com/companies/company118
-Company119,https://company119.com,Description of Company 119,https://www.ycombinator.com/companies/company119
-Company120,https://company120.com,Description of Company 120,https://www.ycombinator.com/companies/company120
-Company121,https://company121.com,Description of Company 121,https://www.ycombinator.com/companies/company121
-Company122,https://company122.com,Description of Company 122,https://www.ycombinator.com/companies/company122
-Company123,https://company123.com,Description of Company 123,https://www.ycombinator.com/companies/company123
-Company124,https://company124.com,Description of Company 124,https://www.ycombinator.com/companies/company124
-Company125,https://company125.com,Description of Company 125,https://www.ycombinator.com/companies/company125
-Company126,https://company126.com,Description of Company 126,https://www.ycombinator.com/companies/company126
-Company127,https://company127.com,Description of Company 127,https://www.ycombinator.com/companies/company127
-Company128,https://company128.com,Description of Company 128,https://www.ycombinator.com/companies/company128
-Company129,https://company129.com,Description of Company 129,https://www.ycombinator.com/companies/company129
-Company130,https://company130.com,Description of Company 130,https://www.ycombinator.com/companies/company130
-Company131,https://company131.com,Description of Company 131,https://www.ycombinator.com/companies/company131
-Company132,https://company132.com,Description of Company 132,https://www.ycombinator.com/companies/company132
-Company133,https://company133.com,Description of Company 133,https://www.ycombinator.com/companies/company133
-Company134,https://company134.com,Description of Company 134,https://www.ycombinator.com/companies/company134
-Company135,https://company135.com,Description of Company 135,https://www.ycombinator.com/companies/company135
-Company136,https://company136.com,Description of Company 136,https://www.ycombinator.com/companies/company136
-Company137,https://company137.com,Description of Company 137,https://www.ycombinator.com/companies/company137
-Company138,https://company138.com,Description of Company 138,https://www.ycombinator.com/companies/company138
-Company139,https://company139.com,Description of Company 139,https://www.ycombinator.com/companies/company139
-Company140,https://company140.com,Description of Company 140,https://www.ycombinator.com/companies/company140
-Company141,https://company141.com,Description of Company 141,https://www.ycombinator.com/companies/company141
-Company142,https://company142.com,Description of Company 142,https://www.ycombinator.com/companies/company142
-Company143,https://company143.com,Description of Company 143,https://www.ycombinator.com/companies/company143
-Company144,https://company144.com,Description of Company 144,https://www.ycombinator.com/companies/company144
-Company145,https://company145.com,Description of Company 145,https://www.ycombinator.com/companies/company145
-Company146,https://company146.com,Description of Company 146,https://www.ycombinator.com/companies/company146
-Company147,https://company147.com,Description of Company 147,https://www.ycombinator.com/companies/company147
-Company148,https://company148.com,Description of Company 148,https://www.ycombinator.com/companies/company148
-Company149,https://company149.com,Description of Company 149,https://www.ycombinator.com/companies/company149
-Company150,https://company150.com,Description of Company 150,https://www.ycombinator.com/companies/company150
-Company151,https://company151.com,Description of Company 151,https://www.ycombinator.com/companies/company151
-Company152,https://company152.com,Description of Company 152,https://www.ycombinator.com/companies/company152
-Company153,https://company153.com,Description of Company 153,https://www.ycombinator.com/companies/company153
-Company154,https://company154.com,Description of Company 154,https://www.ycombinator.com/companies/company154
-Company155,https://company155.com,Description of Company 155,https://www.ycombinator.com/companies/company155
-Company156,https://company156.com,Description of Company 156,https://www.ycombinator.com/companies/company156
-Company157,https://company157.com,Description of Company 157,https://www.ycombinator.com/companies/company157
-Company158,https://company158.com,Description of Company 158,https://www.ycombinator.com/companies/company158
-Company159,https://company159.com,Description of Company 159,https://www.ycombinator.com/companies/company159
-Company160,https://company160.com,Description of Company 160,https://www.ycombinator.com/companies/company160
-Company161,https://company161.com,Description of Company 161,https://www.ycombinator.com/companies/company161
-Company162,https://company162.com,Description of Company 162,https://www.ycombinator.com/companies/company162
-Company163,https://company163.com,Description of Company 163,https://www.ycombinator.com/companies/company163
-Company164,https://company164.com,Description of Company 164,https://www.ycombinator.com/companies/company164
-Company165,https://company165.com,Description of Company 165,https://www.ycombinator.com/companies/company165
-Company166,https://company166.com,Description of Company 166,https://www.ycombinator.com/companies/company166
-Company167,https://company167.com,Description of Company 167,https://www.ycombinator.com/companies/company167
-Company168,https://company168.com,Description of Company 168,https://www.ycombinator.com/companies/company168
-Company169,https://company169.com,Description of Company 169,https://www.ycombinator.com/companies/company169
-Company170,https://company170.com,Description of Company 170,https://www.ycombinator.com/companies/company170
-Company171,https://company171.com,Description of Company 171,https://www.ycombinator.com/companies/company171
-Company172,https://company172.com,Description of Company 172,https://www.ycombinator.com/companies/company172
-Company173,https://company173.com,Description of Company 173,https://www.ycombinator.com/companies/company173
-Company174,https://company174.com,Description of Company 174,https://www.ycombinator.com/companies/company174
-Company175,https://company175.com,Description of Company 175,https://www.ycombinator.com/companies/company175
-Company176,https://company176.com,Description of Company 176,https://www.ycombinator.com/companies/company176
-Company177,https://company177.com,Description of Company 177,https://www.ycombinator.com/companies/company177
-Company178,https://company178.com,Description of Company 178,https://www.ycombinator.com/companies/company178
-Company179,https://company179.com,Description of Company 179,https://www.ycombinator.com/companies/company179
-Company180,https://company180.com,Description of Company 180,https://www.ycombinator.com/companies/company180
-Company181,https://company181.com,Description of Company 181,https://www.ycombinator.com/companies/company181
-Company182,https://company182.com,Description of Company 182,https://www.ycombinator.com/companies/company182
-Company183,https://company183.com,Description of Company 183,https://www.ycombinator.com/companies/company183
-Company184,https://company184.com,Description of Company 184,https://www.ycombinator.com/companies/company184
-Company185,https://company185.com,Description of Company 185,https://www.ycombinator.com/companies/company185
-Company186,https://company186.com,Description of Company 186,https://www.ycombinator.com/companies/company186
-Company187,https://company187.com,Description of Company 187,https://www.ycombinator.com/companies/company187
-Company188,https://company188.com,Description of Company 188,https://www.ycombinator.com/companies/company188
-Company189,https://company189.com,Description of Company 189,https://www.ycombinator.com/companies/company189
-Company190,https://company190.com,Description of Company 190,https://www.ycombinator.com/companies/company190
-Company191,https://company191.com,Description of Company 191,https://www.ycombinator.com/companies/company191
-Company192,https://company192.com,Description of Company 192,https://www.ycombinator.com/companies/company192
-Company193,https://company193.com,Description of Company 193,https://www.ycombinator.com/companies/company193
-Company194,https://company194.com,Description of Company 194,https://www.ycombinator.com/companies/company194
-Company195,https://company195.com,Description of Company 195,https://www.ycombinator.com/companies/company195
-Company196,https://company196.com,Description of Company 196,https://www.ycombinator.com/companies/company196
-Company197,https://company197.com,Description of Company 197,https://www.ycombinator.com/companies/company197
-Company198,https://company198.com,Description of Company 198,https://www.ycombinator.com/companies/company198
-Company199,https://company199.com,Description of Company 199,https://www.ycombinator.com/companies/company199
-Company200,https://company200.com,Description of Company 200,https://www.ycombinator.com/companies/company200
-Company201,https://company201.com,Description of Company 201,https://www.ycombinator.com/companies/company201
-Company202,https://company202.com,Description of Company 202,https://www.ycombinator.com/companies/company202
-Company203,https://company203.com,Description of Company 203,https://www.ycombinator.com/companies/company203
-Company204,https://company204.com,Description of Company 204,https://www.ycombinator.com/companies/company204
-Company205,https://company205.com,Description of Company 205,https://www.ycombinator.com/companies/company205
-Company206,https://company206.com,Description of Company 206,https://www.ycombinator.com/companies/company206
-Company207,https://company207.com,Description of Company 207,https://www.ycombinator.com/companies/company207
-Company208,https://company208.com,Description of Company 208,https://www.ycombinator.com/companies/company208
-Company209,https://company209.com,Description of Company 209,https://www.ycombinator.com/companies/company209
-Company210,https://company210.com,Description of Company 210,https://www.ycombinator.com/companies/company210
-Company211,https://company211.com,Description of Company 211,https://www.ycombinator.com/companies/company211
-Company212,https://company212.com,Description of Company 212,https://www.ycombinator.com/companies/company212
-Company213,https://company213.com,Description of Company 213,https://www.ycombinator.com/companies/company213
-Company214,https://company214.com,Description of Company 214,https://www.ycombinator.com/companies/company214
-Company215,https://company215.com,Description of Company 215,https://www.ycombinator.com/companies/company215
-Company216,https://company216.com,Description of Company 216,https://www.ycombinator.com/companies/company216
-Company217,https://company217.com,Description of Company 217,https://www.ycombinator.com/companies/company217
-Company218,https://company218.com,Description of Company 218,https://www.ycombinator.com/companies/company218
-Company219,https://company219.com,Description of Company 219,https://www.ycombinator.com/companies/company219
-Company220,https://company220.com,Description of Company 220,https://www.ycombinator.com/companies/company220
+AgentMail,https://agentmail.to,AI email agent for businesses,https://www.ycombinator.com/companies/agentmail
+Taptap,https://taptap.app,Social app for instant meetups,https://www.ycombinator.com/companies/taptap
+Buildr,https://buildr.dev,Tools for construction project management,https://www.ycombinator.com/companies/buildr
+Company 4,https://company4.com,Description for Company 4,https://www.ycombinator.com/companies/company4
+Company 5,https://company5.com,Description for Company 5,https://www.ycombinator.com/companies/company5
+Company 6,https://company6.com,Description for Company 6,https://www.ycombinator.com/companies/company6
+Company 7,https://company7.com,Description for Company 7,https://www.ycombinator.com/companies/company7
+Company 8,https://company8.com,Description for Company 8,https://www.ycombinator.com/companies/company8
+Company 9,https://company9.com,Description for Company 9,https://www.ycombinator.com/companies/company9
+Company 10,https://company10.com,Description for Company 10,https://www.ycombinator.com/companies/company10
+Company 11,https://company11.com,Description for Company 11,https://www.ycombinator.com/companies/company11
+Company 12,https://company12.com,Description for Company 12,https://www.ycombinator.com/companies/company12
+Company 13,https://company13.com,Description for Company 13,https://www.ycombinator.com/companies/company13
+Company 14,https://company14.com,Description for Company 14,https://www.ycombinator.com/companies/company14
+Company 15,https://company15.com,Description for Company 15,https://www.ycombinator.com/companies/company15
+Company 16,https://company16.com,Description for Company 16,https://www.ycombinator.com/companies/company16
+Company 17,https://company17.com,Description for Company 17,https://www.ycombinator.com/companies/company17
+Company 18,https://company18.com,Description for Company 18,https://www.ycombinator.com/companies/company18
+Company 19,https://company19.com,Description for Company 19,https://www.ycombinator.com/companies/company19
+Company 20,https://company20.com,Description for Company 20,https://www.ycombinator.com/companies/company20
+Company 21,https://company21.com,Description for Company 21,https://www.ycombinator.com/companies/company21
+Company 22,https://company22.com,Description for Company 22,https://www.ycombinator.com/companies/company22
+Company 23,https://company23.com,Description for Company 23,https://www.ycombinator.com/companies/company23
+Company 24,https://company24.com,Description for Company 24,https://www.ycombinator.com/companies/company24
+Company 25,https://company25.com,Description for Company 25,https://www.ycombinator.com/companies/company25
+Company 26,https://company26.com,Description for Company 26,https://www.ycombinator.com/companies/company26
+Company 27,https://company27.com,Description for Company 27,https://www.ycombinator.com/companies/company27
+Company 28,https://company28.com,Description for Company 28,https://www.ycombinator.com/companies/company28
+Company 29,https://company29.com,Description for Company 29,https://www.ycombinator.com/companies/company29
+Company 30,https://company30.com,Description for Company 30,https://www.ycombinator.com/companies/company30
+Company 31,https://company31.com,Description for Company 31,https://www.ycombinator.com/companies/company31
+Company 32,https://company32.com,Description for Company 32,https://www.ycombinator.com/companies/company32
+Company 33,https://company33.com,Description for Company 33,https://www.ycombinator.com/companies/company33
+Company 34,https://company34.com,Description for Company 34,https://www.ycombinator.com/companies/company34
+Company 35,https://company35.com,Description for Company 35,https://www.ycombinator.com/companies/company35
+Company 36,https://company36.com,Description for Company 36,https://www.ycombinator.com/companies/company36
+Company 37,https://company37.com,Description for Company 37,https://www.ycombinator.com/companies/company37
+Company 38,https://company38.com,Description for Company 38,https://www.ycombinator.com/companies/company38
+Company 39,https://company39.com,Description for Company 39,https://www.ycombinator.com/companies/company39
+Company 40,https://company40.com,Description for Company 40,https://www.ycombinator.com/companies/company40
+Company 41,https://company41.com,Description for Company 41,https://www.ycombinator.com/companies/company41
+Company 42,https://company42.com,Description for Company 42,https://www.ycombinator.com/companies/company42
+Company 43,https://company43.com,Description for Company 43,https://www.ycombinator.com/companies/company43
+Company 44,https://company44.com,Description for Company 44,https://www.ycombinator.com/companies/company44
+Company 45,https://company45.com,Description for Company 45,https://www.ycombinator.com/companies/company45
+Company 46,https://company46.com,Description for Company 46,https://www.ycombinator.com/companies/company46
+Company 47,https://company47.com,Description for Company 47,https://www.ycombinator.com/companies/company47
+Company 48,https://company48.com,Description for Company 48,https://www.ycombinator.com/companies/company48
+Company 49,https://company49.com,Description for Company 49,https://www.ycombinator.com/companies/company49
+Company 50,https://company50.com,Description for Company 50,https://www.ycombinator.com/companies/company50
+Company 51,https://company51.com,Description for Company 51,https://www.ycombinator.com/companies/company51
+Company 52,https://company52.com,Description for Company 52,https://www.ycombinator.com/companies/company52
+Company 53,https://company53.com,Description for Company 53,https://www.ycombinator.com/companies/company53
+Company 54,https://company54.com,Description for Company 54,https://www.ycombinator.com/companies/company54
+Company 55,https://company55.com,Description for Company 55,https://www.ycombinator.com/companies/company55
+Company 56,https://company56.com,Description for Company 56,https://www.ycombinator.com/companies/company56
+Company 57,https://company57.com,Description for Company 57,https://www.ycombinator.com/companies/company57
+Company 58,https://company58.com,Description for Company 58,https://www.ycombinator.com/companies/company58
+Company 59,https://company59.com,Description for Company 59,https://www.ycombinator.com/companies/company59
+Company 60,https://company60.com,Description for Company 60,https://www.ycombinator.com/companies/company60
+Company 61,https://company61.com,Description for Company 61,https://www.ycombinator.com/companies/company61
+Company 62,https://company62.com,Description for Company 62,https://www.ycombinator.com/companies/company62
+Company 63,https://company63.com,Description for Company 63,https://www.ycombinator.com/companies/company63
+Company 64,https://company64.com,Description for Company 64,https://www.ycombinator.com/companies/company64
+Company 65,https://company65.com,Description for Company 65,https://www.ycombinator.com/companies/company65
+Company 66,https://company66.com,Description for Company 66,https://www.ycombinator.com/companies/company66
+Company 67,https://company67.com,Description for Company 67,https://www.ycombinator.com/companies/company67
+Company 68,https://company68.com,Description for Company 68,https://www.ycombinator.com/companies/company68
+Company 69,https://company69.com,Description for Company 69,https://www.ycombinator.com/companies/company69
+Company 70,https://company70.com,Description for Company 70,https://www.ycombinator.com/companies/company70
+Company 71,https://company71.com,Description for Company 71,https://www.ycombinator.com/companies/company71
+Company 72,https://company72.com,Description for Company 72,https://www.ycombinator.com/companies/company72
+Company 73,https://company73.com,Description for Company 73,https://www.ycombinator.com/companies/company73
+Company 74,https://company74.com,Description for Company 74,https://www.ycombinator.com/companies/company74
+Company 75,https://company75.com,Description for Company 75,https://www.ycombinator.com/companies/company75
+Company 76,https://company76.com,Description for Company 76,https://www.ycombinator.com/companies/company76
+Company 77,https://company77.com,Description for Company 77,https://www.ycombinator.com/companies/company77
+Company 78,https://company78.com,Description for Company 78,https://www.ycombinator.com/companies/company78
+Company 79,https://company79.com,Description for Company 79,https://www.ycombinator.com/companies/company79
+Company 80,https://company80.com,Description for Company 80,https://www.ycombinator.com/companies/company80
+Company 81,https://company81.com,Description for Company 81,https://www.ycombinator.com/companies/company81
+Company 82,https://company82.com,Description for Company 82,https://www.ycombinator.com/companies/company82
+Company 83,https://company83.com,Description for Company 83,https://www.ycombinator.com/companies/company83
+Company 84,https://company84.com,Description for Company 84,https://www.ycombinator.com/companies/company84
+Company 85,https://company85.com,Description for Company 85,https://www.ycombinator.com/companies/company85
+Company 86,https://company86.com,Description for Company 86,https://www.ycombinator.com/companies/company86
+Company 87,https://company87.com,Description for Company 87,https://www.ycombinator.com/companies/company87
+Company 88,https://company88.com,Description for Company 88,https://www.ycombinator.com/companies/company88
+Company 89,https://company89.com,Description for Company 89,https://www.ycombinator.com/companies/company89
+Company 90,https://company90.com,Description for Company 90,https://www.ycombinator.com/companies/company90
+Company 91,https://company91.com,Description for Company 91,https://www.ycombinator.com/companies/company91
+Company 92,https://company92.com,Description for Company 92,https://www.ycombinator.com/companies/company92
+Company 93,https://company93.com,Description for Company 93,https://www.ycombinator.com/companies/company93
+Company 94,https://company94.com,Description for Company 94,https://www.ycombinator.com/companies/company94
+Company 95,https://company95.com,Description for Company 95,https://www.ycombinator.com/companies/company95
+Company 96,https://company96.com,Description for Company 96,https://www.ycombinator.com/companies/company96
+Company 97,https://company97.com,Description for Company 97,https://www.ycombinator.com/companies/company97
+Company 98,https://company98.com,Description for Company 98,https://www.ycombinator.com/companies/company98
+Company 99,https://company99.com,Description for Company 99,https://www.ycombinator.com/companies/company99
+Company 100,https://company100.com,Description for Company 100,https://www.ycombinator.com/companies/company100
+Company 101,https://company101.com,Description for Company 101,https://www.ycombinator.com/companies/company101
+Company 102,https://company102.com,Description for Company 102,https://www.ycombinator.com/companies/company102
+Company 103,https://company103.com,Description for Company 103,https://www.ycombinator.com/companies/company103
+Company 104,https://company104.com,Description for Company 104,https://www.ycombinator.com/companies/company104
+Company 105,https://company105.com,Description for Company 105,https://www.ycombinator.com/companies/company105
+Company 106,https://company106.com,Description for Company 106,https://www.ycombinator.com/companies/company106
+Company 107,https://company107.com,Description for Company 107,https://www.ycombinator.com/companies/company107
+Company 108,https://company108.com,Description for Company 108,https://www.ycombinator.com/companies/company108
+Company 109,https://company109.com,Description for Company 109,https://www.ycombinator.com/companies/company109
+Company 110,https://company110.com,Description for Company 110,https://www.ycombinator.com/companies/company110
+Company 111,https://company111.com,Description for Company 111,https://www.ycombinator.com/companies/company111
+Company 112,https://company112.com,Description for Company 112,https://www.ycombinator.com/companies/company112
