@@ -1,4 +1,5 @@
-
+# Обновляем main.py с заголовками и обработкой ошибок
+fixed_main_py = """
 import streamlit as st
 import pandas as pd
 import requests
@@ -6,6 +7,10 @@ import requests
 # Функция для загрузки списка компаний из YC Directory
 def fetch_yc_companies(batch="S25"):
     url = "https://api.ycombinator.com/graphql"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0 Safari/537.36",
+        "Content-Type": "application/json"
+    }
     query = '''
     query ($batch: String!, $first: Int!, $after: String) {
       allCompanies(filter: {batches: [$batch]}, first: $first, after: $after) {
@@ -24,9 +29,16 @@ def fetch_yc_companies(batch="S25"):
     variables = {"batch": batch, "first": 50, "after": None}
     results = []
     while True:
-        resp = requests.post(url, json={"query": query, "variables": variables})
-        data = resp.json()
-        edges = data['data']['allCompanies']['edges']
+        resp = requests.post(url, json={"query": query, "variables": variables}, headers=headers)
+        if resp.status_code != 200:
+            st.error(f"Ошибка при подключении к API: {resp.status_code}")
+            break
+        try:
+            data = resp.json()
+        except Exception:
+            st.error("Не удалось декодировать ответ от API Y Combinator.")
+            break
+        edges = data.get('data', {}).get('allCompanies', {}).get('edges', [])
         if not edges:
             break
         for edge in edges:
@@ -59,3 +71,11 @@ st.dataframe(df)
 # Кнопка скачать
 csv = df.to_csv(index=False).encode('utf-8')
 st.download_button("Скачать CSV", csv, "yc_s25_companies.csv", "text/csv")
+"""
+
+# Сохраним файл
+fixed_file_path = "/mnt/data/main_fixed.py"
+with open(fixed_file_path, "w") as f:
+    f.write(fixed_main_py)
+
+fixed_file_path
