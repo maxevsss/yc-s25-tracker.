@@ -27,7 +27,7 @@ st.download_button("Скачать CSV", csv, "yc_s25_companies.csv", "text/csv"
 
 # Эмуляция CSV с 220 компаниями
 csv_data = "name,website,description,yc_url\n"
-for i in range(1, 221):
+for i in range(1, 113):
     csv_data += f"Company{i},https://company{i}.com,Description of Company {i},https://www.ycombinator.com/companies/company{i}\n"
 
 readme = "# YC S25 Tracker\n\nStreamlit-приложение с полным списком стартапов Y Combinator Summer 2025.\n"
